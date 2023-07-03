@@ -1,0 +1,1 @@
+ALTER TABLE public."PRODUCTS" ADD is_active boolean NOT NULL DEFAULT true;
